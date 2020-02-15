@@ -1,5 +1,5 @@
 ---
-title: Functional Programming in Haskell - Stepik course notes - module 2
+title: Functional Programming in Haskell - Stepik course notes - Fundamentals
 date: 2020-01-20 23:07:38
 tags:
 ---
@@ -8,7 +8,7 @@ This is the second module (out of 5) of my English summary of the Haskell MOOC o
 
 1. [Introduction](/2020/01/functional-programming-in-haskell-stepik-course-notes-module-1/)
 2. **Programming fundamentals** (this page)
-3. Lists
+3. [Lists](/2020/02/functional-programming-in-haskell-stepik-course-notes-module-3/)
 4. Data types
 5. Monads
 
